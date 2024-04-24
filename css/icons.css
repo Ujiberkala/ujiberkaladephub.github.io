@@ -10,7 +10,7 @@
 *
 * ======================================================== */
 .clearfix {
-  *zoom: 1;
+  zoom: 1;
 }
 .clearfix:before,
 .clearfix:after {
@@ -30,7 +30,7 @@
   display: inline-block;
   width: 16px;
   height: 16px;
-  *margin-right: .3em;
+  margin-right: .3em;
   line-height: 14px;
   vertical-align: text-top;
   background-position: 16px 16px;
